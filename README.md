@@ -70,9 +70,9 @@ BSPWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/
 --|--
 ![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-bspwm.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-dwm.gif)
 
-<!-- XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad.svg" alt="XMonad" width=50px>|Qtile <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=50px>
+XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad.svg" alt="XMonad" width=50px>|Qtile <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=50px>
 --|--
-![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-xmonad.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-qtile.gif) --> -->
+![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-xmonad.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-qtile.gif) -->
 
 <div align=center>
   <table>
@@ -86,7 +86,7 @@ BSPWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/
     </tr>
     <tr>
       <td>
-        <img src="#" alt="i3">
+        <img src="https://github.com/Knightfall01/axyl-hyprland/raw/main/Assets/hyprland.gif" alt="i3">
       </td>
     </tr>
   </table>
