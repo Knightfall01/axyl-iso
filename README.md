@@ -34,7 +34,7 @@
   <!-- <a href="https://github.com/baskerville/bspwm" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=90px></a> -->
   <!-- <a href="https://dwm.suckless.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px></a> -->
    <!-- <a href="https://xmonad.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px></a> -->
-  <a href="http://www.qtile.org/" target="_blank"><img src=" https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="qtile" width=90px></a>
+  <a href="http://www.qtile.org/" target="_blank"><img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="qtile" width=230px></a>
 
 </p>
 
