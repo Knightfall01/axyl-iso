@@ -2,32 +2,22 @@
 <a href="https://axyl-os.github.io" target="_blank"><img src="https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-logo.svg" width="250px" height="auto"/></a>
 </p>
 
-<p align="center">
-<a href="https://www.paypal.com/donate?hosted_button_id=GTLF6LZ5LRSE4"><img width="32px" src="https://raw.githubusercontent.com/Kungger-git/files/master/imgs/ppal.png" alt="Support my work via Paypal"></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-CD8335?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/axyl-os/axyl-iso/total?label=Downloads&logo=github&color=6EA340&style=flat-square">
-  <img src="https://img.shields.io/github/stars/axyl-os/axyl-iso?label=Stars&color=4C87C1&style=flat-square">
-  <img src="https://img.shields.io/github/issues/axyl-os/axyl-iso?color=87599A&style=flat-square">
-</p>
-
 <h1 align="center">
   Welcome to Axyl.
 </h1>
 
 <p align="center">
   Introducing a new minimal Arch Linux-based distro.<br>
-  Axyl focuses fully on tiling WMs. Level up your productivity with i3, bspwm, dwm and more.
+  This is my own version of the now discontinued version of the Axyl OS distro.
+  Axyl focuses fully on tiling WMs. Level up your productivity with i3 and Hyprland.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/axyl-os/axyl-iso/releases">
     <img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/download-now.svg" height=65px>
   </a>
-</p>
-
+</p> -->
+<!-- 
 <p align="center">
   <a href="https://axyl-os.github.io/">
     <img src="https://img.shields.io/badge/Learn_More-h?color=1B5488&style=for-the-badge">
@@ -35,16 +25,17 @@
   <a href="https://discord.gg/qAXMkQdwjj">
     <img src="https://img.shields.io/badge/JOIN_THE_AXYL_SERVER-%23586AA8.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
-</p>
+</p> -->
 
 <br><br>
 
 <p align="center">
   <a href="https://i3wm.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/i3-shadows.svg" alt="i3" width=90px></a>
-  <a href="https://github.com/baskerville/bspwm" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=90px></a>
-  <a href="https://dwm.suckless.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px></a>
-  <a href="https://xmonad.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px></a>
-  <a href="http://www.qtile.org/" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=90px></a>
+  <!-- <a href="https://github.com/baskerville/bspwm" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=90px></a> -->
+  <!-- <a href="https://dwm.suckless.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px></a> -->
+   <!-- <a href="https://xmonad.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px></a> -->
+  <a href="http://www.qtile.org/" target="_blank"><img src=" https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="qtile" width=90px></a>
+
 </p>
 
 ## Contents
