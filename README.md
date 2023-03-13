@@ -9,7 +9,7 @@
 <p align="center">
   Introducing a new minimal Arch Linux-based distro.<br>
   This is my own version of the now discontinued version of the Axyl OS distro.
-  Axyl focuses fully on tiling WMs. Level up your productivity with i3 and Hyprland.
+  Axyl focuses fully on tiling WMs. Level up your productivity with <a href="https://i3wm.org" target="_blank"> i3 </a> and <a href="https://i3wm.org" target="_blank">Hyprland (Wayland Compositor)</a>.
 </p>
 
 <!-- <p align="center">
