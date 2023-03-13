@@ -34,7 +34,7 @@
   <!-- <a href="https://github.com/baskerville/bspwm" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=90px></a> -->
   <!-- <a href="https://dwm.suckless.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=90px></a> -->
    <!-- <a href="https://xmonad.org" target="_blank"><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/xmonad.svg" alt="xmonad" width=90px></a> -->
-  <a href="http://www.qtile.org/" target="_blank"><img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="qtile" width=230px></a>
+  <a href="https://hyprland.org" target="_blank"><img src="https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="hypr" width=230px></a>
 
 </p>
 
@@ -65,14 +65,33 @@
     </tr>
   </table>
 </div>
-
+<!-- 
 BSPWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/bspwm.svg" alt="bspwm" width=50px>|DWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/dwm-shadows.svg" alt="dwm" width=50px>
 --|--
 ![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-bspwm.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-dwm.gif)
 
-XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad.svg" alt="XMonad" width=50px>|Qtile <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=50px>
+<!-- XMonad <br><img src="https://axyl-os.github.io/assets/img/window-managers/xmonad.svg" alt="XMonad" width=50px>|Qtile <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/main/qtile-shadows.svg" alt="qtile" width=50px>
 --|--
-![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-xmonad.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-qtile.gif)
+![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-xmonad.gif)|![gif](https://raw.githubusercontent.com/axyl-os/axyl-os.github.io/master/assets/img/axyl-qtile.gif) --> -->
+
+<div align=center>
+  <table>
+    <tr>
+      <td>
+        <div align=center>
+          <h3>Hyprland (Wayland) </h3>
+          <img src=" https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="i3" width=70px>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="#" alt="i3">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <p align=center><strong><a href="https://axyl-os.github.io">Learn More About Axyl</a></strong></p>
 
