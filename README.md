@@ -78,7 +78,7 @@ BSPWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/
     <tr>
       <td>
         <div align=center>
-          <h3>Hyprland (Wayland) </h3>
+          <h3>Hyprland <em> (Wayland) </em> </h3>
           <img src=" https://raw.githubusercontent.com/vaxerski/Hyprland/main/assets/header.svg" alt="i3" width=70px>
         </div>
       </td>
