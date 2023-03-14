@@ -100,7 +100,7 @@ BSPWM <br><img src="https://raw.githubusercontent.com/angelofallars/axyl-assets/
 
 [Download](https://github.com/axyl-os/axyl-iso/releases) the latest Axyl release from the Releases section.
 
-Once you've downloaded the `.iso` file, flash the ISO image into a portable drive, like a flash drive. We recommend using [balenaEtcher](https://www.balena.io/etcher/) for this task.
+Once you've downloaded the `.iso` file, flash the ISO image into a portable drive, like a flash drive. We recommend using [balenaEtcher](https://www.balena.io/etcher/) or [ventoy]()for this task.
 
 Then, boot from the flash drive from the BIOS/UEFI.
 
@@ -110,12 +110,7 @@ i3 is Axyl's default window manager. You can install up to seven WMs from the IS
 
 Axyl offers several WMs:
 - i3
-- bspwm
-- dwm
-- XMonad
-- Qtile
-- leftwm
-- spectrwm
+- Hyprland
 
 <a id="keybinds"></a>
 ## 🖥 Global Keybindings
@@ -129,8 +124,8 @@ All default WMs in Axyl come with the same set of basic keybindings:
 | `Super + [1..7]`           | Switches to Workspace 1 to 7             |
 | `Super + Shft + [1..7]`    | Move Apps/Windows to Workspace 1 to 7    |
 | `Super + X`                | Launch Powermenu                         |
-| `Super + Enter`            | Launch Terminal (xfce4-terminal)         |
-| `Super + C`                | Close/Kill Window                        |
+| `Super + Enter`            | Launch Terminal (Kitty)                  |
+| `Super + Q`                | Close/Kill Window                        |
 | `Super`                    | Launch j4-dmenu-desktop                  |
 | `Super + D`                | Launch dmenu                             |
 | `Super + N`                | Launch NetworkManager dmenu              |
