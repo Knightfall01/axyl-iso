@@ -119,8 +119,8 @@ All default WMs in Axyl come with the same set of basic keybindings:
 
 |        Keybind             |                 Function                 |
 | -------------------------- | ---------------------------------------- |
-| `Ctrl + Shft + Q`          | Log Out Session                          |
-| `Ctrl + Shft + R`          | Reload Current Session                   |
+| `Super + Shft + Q`          | Log Out Session                         |
+| `Ctrl + Shft + R`          | Reload C
 | `Super + [1..7]`           | Switches to Workspace 1 to 7             |
 | `Super + Shft + [1..7]`    | Move Apps/Windows to Workspace 1 to 7    |
 | `Super + X`                | Launch Powermenu                         |

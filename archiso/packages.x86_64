@@ -166,6 +166,9 @@ papirus-icon-theme
 ttf-dejavu
 ttf-liberation
 nerd-fonts-jetbrains-mono
+ttf-fira-code
+ttf-cascadia-code
+ttf-nerd-fonts-symbols-common
 
 ###################
 #### Utilities ####
@@ -184,6 +187,7 @@ unzip
 xclip
 xfce4-power-manager
 xfce4-settings
+
 
 #######################################
 #### AMD/Intel/VM Graphics Drivers ####
@@ -211,6 +215,7 @@ virtualbox-guest-utils-nox
 #### Other ####
 ###############
 alacritty
+kitty
 archlinux-keyring
 base-devel
 bat
@@ -225,6 +230,7 @@ lxdm-gtk3
 make
 oh-my-zsh-git
 polybar
+waybar
 xdg-utils
 xdotool
 xfce4-terminal
