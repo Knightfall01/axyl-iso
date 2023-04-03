@@ -106,7 +106,7 @@ Then, boot from the flash drive from the BIOS/UEFI.
 
 When you boot up Axyl, you will be greeted by a welcome screen to install the OS. You can install right away, or just try out Axyl in the live boot.
 
-i3 is Axyl's default window manager. You can install up to seven WMs from the ISO.
+i3 is Axyl's default window manager. You can install up to two WMs as of now from the ISO. Soon you install more from the iso.
 
 Axyl offers several WMs:
 - i3
